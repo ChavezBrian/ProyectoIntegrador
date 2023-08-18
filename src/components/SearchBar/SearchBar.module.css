@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: flex-end;
+  height: 30px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.input {
+  background-color: rgba(0, 255, 255, 0.535);
+  border: 1px solid rgba(0, 0, 0, 0.205);
+  border-radius: 20px 0 0 20px;
+  color: aliceblue;
+  outline: none;
+}
+.button {
+  color: aqua;
+  background-color: rgba(0, 0, 0, 0.646);
+  border: 2px solid aqua;
+  border-radius: 0 20px 20px 0;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: rgba(0, 255, 255, 0.437);
+  color: whitesmoke;
+}

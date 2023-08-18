@@ -1,0 +1,20 @@
+.container {
+    border: none;
+    background-color: #7a7674bf;
+    border-radius: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 90vw;
+    padding-bottom: 2em;
+    perspective: 1500px;
+}
+.divImg {
+    margin-left: 22em;
+    margin-top: 28em;
+}
+
+.imgbg {
+    position: absolute;
+  }

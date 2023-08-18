@@ -1,0 +1,12 @@
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: yellow;
+    border-radius: 20px;
+    width: 90vw;
+    height: 4em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    /* margin: 1em 1em 1em 4em; */
+  }
